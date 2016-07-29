@@ -1,6 +1,6 @@
 {
   "name": "js-partial-option-of",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A partial to get the specific option value from the options object.",
   "main": "dist/js-partial-option-of.js",
   "license": "MIT",

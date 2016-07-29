@@ -2,7 +2,7 @@
  * @overview A partial to get the specific option value from the options object.
  *
  * @module js/partial/optionOf
- * @version 0.0.0
+ * @version 1.0.0
  *
  * @author Richard King <richrdkng@gmail.com> [GitHub]{@link https://github.com/richrdkng}
  * @license MIT
